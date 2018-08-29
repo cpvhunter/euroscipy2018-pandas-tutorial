@@ -33,10 +33,10 @@ Activate environment and run Jupyter:
 - SciPy 2018 - pandas .head() to .tail()
    - https://www.youtube.com/watch?v=lkLl\_QKLgcA
 
-- EuroSciPy 2017: Beginners pandas
+- EuroSciPy 2017 - Beginners pandas
    - https://www.youtube.com/watch?v=Cz\_u2If7KbI
 
-- EuroSciPy 2017: Advanced pandas
+- EuroSciPy 2017 - Advanced pandas
    - https://www.youtube.com/watch?v=gS7kVg-4ZaU
 
 ### Books
